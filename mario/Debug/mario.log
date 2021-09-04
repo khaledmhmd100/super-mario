@@ -1,0 +1,104 @@
+﻿  Source.cpp
+E:\mario\mario\Source.cpp(25,15): warning C4244: 'initializing': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+E:\mario\mario\Source.cpp(26,16): warning C4244: 'initializing': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+E:\mario\mario\Source.cpp(338,28): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\mario\mario\Source.cpp(397,33): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\mario\mario\Source.cpp(400,34): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\mario\mario\Source.cpp(403,35): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\mario\mario\Source.cpp(406,36): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\mario\mario\Source.cpp(409,37): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\mario\mario\Source.cpp(412,38): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\mario\mario\Source.cpp(415,39): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\mario\mario\Source.cpp(418,40): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\mario\mario\Source.cpp(421,41): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\mario\mario\Source.cpp(424,42): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\mario\mario\Source.cpp(427,43): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\mario\mario\Source.cpp(456,31): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\mario\mario\Source.cpp(492,31): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\mario\mario\Source.cpp(495,31): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\mario\mario\Source.cpp(500,32): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\mario\mario\Source.cpp(503,32): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\mario\mario\Source.cpp(514,38): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\mario\mario\Source.cpp(522,34): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\mario\mario\Source.cpp(896,22): warning C4305: 'argument': truncation from 'double' to 'float'
+  mario.vcxproj -> E:\mario\Debug\mario.exe
